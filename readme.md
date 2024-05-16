@@ -107,8 +107,9 @@ WD-ProjectName
 ```
 
 ## Resources
+https://www.pinterest.ph/pin/352969689557980249/
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Basic web design for shopping | The purpose of this project is to give an example of what a basic and clean website should look like. |(https://www.pinterest.ph/pin/352969689557980249/)|
